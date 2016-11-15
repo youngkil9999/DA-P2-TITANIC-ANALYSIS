@@ -68,7 +68,7 @@ Figure 3. Boarding class differentiation is more classified in female pie chart.
 Figure 4. Passed away Male and Female age distribution
 In case of female age distributed all over the range but male rather focused on 10s – 40s
 
-![alt tag](https://github.com/youngkil9999/Project2/blob/master/Project/figure_8.png)
+![alt tag](https://github.com/youngkil9999/Project2/blob/master/Project/figure_7.png)
 
 Figure 5. Dead male was mostly single like Jack, titanic movie, Rose should not be included in this chart because she survived.
 
