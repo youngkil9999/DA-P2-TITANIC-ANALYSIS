@@ -1,4 +1,3 @@
-
 Once you have finished analyzing the data, create a report that shares the findings you found most interesting. You might wish to use IPython notebook to share your findings alongside the code you used to perform the analysis, but you can also use another tool if you wish.
 
 Step Five - Review
@@ -30,8 +29,8 @@ Remove the unnecessary data sets such as Ticket, Fare, and Cabin.
 Filled empty cells of Embark with Southampton and empty cells of Age with Average of rest of people
 
 
-![alt tag](https://github.com/youngkil9999/Project2/blob/master/Project/figure_1.png)
-![alt tag](https://github.com/youngkil9999/Project2/blob/master/Project/figure_3.png)
+![alt tag](https://github.com/youngkil9999/Data-Analyst-Project2/blob/master/figure_1.png)
+![alt tag](https://github.com/youngkil9999/Data-Analyst-Project2/blob/master/figure_3.png)
 
 Figure 1 – Survived vs Pclass
 Most of people who used 3rd class passed away even though Most of people took 3rd class
@@ -47,7 +46,7 @@ Figure 1 – Survived vs Sex
 89 % of female had a chance to survive
 
 
-![alt tag](https://github.com/youngkil9999/Project2/blob/master/Project/figure_2.png)
+![alt tag](https://github.com/youngkil9999/Data-Analyst-Project2/blob/master/figure_2.png)
 
 Figure 2 – People aboard vs Age
 More than Half of people who boarded titanic were young below 30s and the oldest people ranges 70s- 80s
@@ -58,26 +57,25 @@ High frequency for the people who passed away ranges 20s – 40s but most of the
 Figure 2 – People Survived vs Age
 High frequency for the people who survived ranges 20s – 40s but most of them were 20s – 30s
 
-![alt tag](https://github.com/youngkil9999/Project2/blob/master/Project/figure_4.png)
+![alt tag](https://github.com/youngkil9999/Data-Analyst-Project2/blob/master/figure_4.png)
 
 Figure 3. Boarding class differentiation is more classified in female pie chart. 90% of dead female was class 3 and the others, class 2 and class 3 occupied 10% of female dead
 
 
-![alt tag](https://github.com/youngkil9999/Project2/blob/master/Project/figure_6.png)
+![alt tag](https://github.com/youngkil9999/Data-Analyst-Project2/blob/master/figure_6.png)
 
 
 Figure 4. Passed away Male and Female age distribution
 In case of female age distributed all over the range but male rather focused on 10s – 40s
 
-![alt tag](https://github.com/youngkil9999/Project2/blob/master/Project/figure_7.png)
+![alt tag](https://github.com/youngkil9999/Data-Analyst-Project2/blob/master/figure_7.png)
 
 Figure 5. Dead male was mostly single like Jack, titanic movie, Rose should not be included in this chart because she survived.
 
 
-![alt tag](https://github.com/youngkil9999/Project2/blob/master/Project/figure_9.png)
+![alt tag](https://github.com/youngkil9999/Data-Analyst-Project2/blob/master/figure_9.png)
 
-![alt tag](https://github.com/youngkil9999/Project2/blob/master/Project/figure_8.png)
+![alt tag](https://github.com/youngkil9999/Data-Analyst-Project2/blob/master/figure_8.png)
 
 
 Figure 6. Most of people who didn’t survive came from England. 77.8 % of people from Southampton dead at the time. Surprisingly both male and female from Southampton occupied 77.8% of dead population.
-
