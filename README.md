@@ -1,3 +1,4 @@
+
 Once you have finished analyzing the data, create a report that shares the findings you found most interesting. You might wish to use IPython notebook to share your findings alongside the code you used to perform the analysis, but you can also use another tool if you wish.
 
 Step Five - Review
@@ -79,3 +80,4 @@ Figure 5. Dead male was mostly single like Jack, titanic movie, Rose should not 
 
 
 Figure 6. Most of people who didn’t survive came from England. 77.8 % of people from Southampton dead at the time. Surprisingly both male and female from Southampton occupied 77.8% of dead population.
+
